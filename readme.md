@@ -1,6 +1,6 @@
-# Blockchain-Based-Comprehensive-Pig-Lifecycle-Tracking
+# Cross-Chain-Verification-USing-Hyperlane Protocol-Polygon<->Binance
 
-This system provides a blockchain-based solution for tracking pigs through their entire lifecycle (birth, vaccination, sales) with data integrity verification using Merkle Trees and IPFS for decentralized storage. The system allows for:
+This system provides a blockchain-based solution for tracking animal husbandry through their entire lifecycle (birth, vaccination, sales) with data integrity verification using Merkle Trees and IPFS for decentralized storage. The system allows for:
 
 - Recording pig, vaccination, sales records/profiles
 - Tracking Lifecycle
