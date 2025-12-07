@@ -1,0 +1,29 @@
+{"level":"info","message":"📤 ============================================"}
+{"level":"info","message":"📤 Dispatching cross-chain message to BSC..."}
+{"level":"info","message":"   Action: PIG_REGISTERED"}
+{"level":"info","message":"   Pig ID: 2"}
+{"level":"info","message":"   Merkle Root: 0x3d7542acceeea9f459dccf8c0112009d14c70af6a0c60a466c66da0056bccd9c"}
+{"level":"info","message":"   IPFS CID: QmXWtmbqNA1j6ERDwcPe5hJHpxdbECgB873iiLLqpvgWhb"}
+{"level":"info","message":"   BSC Verifier: 0x3EC78545b69184EaE8f39Fb3c560A985fE0D2BF1"}
+{"level":"info","message":"   Message Nonce: 1765090622208"}
+{"level":"info","message":"   Timestamp: 1765090656"}
+{"level":"info","message":"   Polygon Tx: 0xfa5c2be95395b2c74980cb0ee8e6fce088a64d8e0d057519af1835e8f6bd192e"}
+{"level":"info","message":"   Recipient (bytes32): 0x0000000000000000000000003ec78545b69184eae8f39fb3c560a985fe0d2bf1"}
+{"level":"info","message":"💰 Using fallback fee: 0.001 MATIC"}
+{"level":"info","message":"   Wallet Balance: 30.893772534098506932 MATIC"}
+{"level":"info","message":"   Gas Estimate: 31462"}
+{"level":"info","message":"   Gas Limit (with buffer): 40900"}
+{"level":"info","message":"   Gas Price: 500.000000063 Gwei"}
+{"level":"info","message":"✍️  Signing transaction..."}
+{"level":"info","message":"📡 Sending transaction..."}
+{"level":"info","message":"✅ ============================================"}
+{"level":"info","message":"✅ Cross-chain message dispatched successfully!"}
+{"level":"info","message":"   Tx Hash: 0xf7388d64db00541573c29737a8eaf155fc5d0455b1b35105461bb7ec5f5c8867"}
+{"level":"info","message":"   Gas Used: 31110"}
+{"level":"info","message":"   Total Cost: 0.01655500000195993 MATIC"}
+{"level":"info","message":"   Block: 30093675"}
+{"level":"info","message":"   Status: Success"}
+{"level":"info","message":"   🔗 View on Polygon:"}
+{"level":"info","message":"   https://amoy.polygonscan.com/tx/0xf7388d64db00541573c29737a8eaf155fc5d0455b1b35105461bb7ec5f5c8867"}
+{"level":"info","message":"   ⏳ Message will arrive on BSC in ~5-10 minutes"}
+{"level":"info","message":"============================================"}
