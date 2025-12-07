@@ -1,4 +1,4 @@
-# Cross-Chain-Verification-USing-Hyperlane Protocol-Polygon<->Binance
+# Cross-Chain-Verification-Using-Hyperlane Protocol-Polygon<->Binance
 
 This system provides a blockchain-based solution for tracking animal husbandry through their entire lifecycle (birth, vaccination, sales) with data integrity verification using Merkle Trees and IPFS for decentralized storage. The system allows for:
 
